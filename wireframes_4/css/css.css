@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    display:flex;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.celeste{
+    width: 125px;
+    height: 125px;
+    margin: 15px;
+    background-color: aquamarine;
+    border-radius: 30px; 
+}
+
+.Azul{
+    width: 125px;
+    height: 125px;
+    margin: 15px;
+    background-color:midnightblue;
+    border-radius: 30px; 
+}
+

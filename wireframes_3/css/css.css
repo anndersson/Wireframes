@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+  padding: 25px;
+}
+
+.caja{
+    background-color: aquamarine;
+    width: 325px;
+    height: auto;
+    border-radius: 10px;
+    padding: 35px;
+    display: flex;
+    flex-direction: column;
+}
+
+.fondo{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: snow;
+}
+
+.recta{
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: snow;
+    align-self: center;
+    margin-top: 430px;
+}
