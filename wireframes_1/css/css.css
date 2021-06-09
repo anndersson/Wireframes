@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.cuadro_1{
+    width: 37.5rem;
+    height: auto;
+    padding: 3rem;
+    
+    display:flex;
+    flex-direction: column;
+}
+
+.caja{
+    width: 18rem;
+    height: 23rem;
+    background-color: chocolate;
+    border-radius: 10px;
+}
+
+
+.foul_2{
+    width: 18rem;
+    height: 10rem;
+    background-color: chocolate;
+    border-radius: 10px;
+   
+    margin-top: 3rem;
+    align-self: flex-end;
+}
+
+.foul_3{
+    width: 18rem;
+    height: 17rem;
+    background-color: chocolate;
+    border-radius: 10px;
+    margin-top: 3rem;  
+    
+    align-self: center;
+}
+
+.foul_4{
+    width: 18rem;
+    height: 4rem;
+    background-color: chocolate;
+    border-radius: 10px;
+    margin-top: 3rem;  
+    
+    align-self: flex-end;
+}
+    

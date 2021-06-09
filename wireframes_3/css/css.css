@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+  padding: 2.5rem;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.caja{
+    background-color: aquamarine;
+    width: 32.5rem;
+    height: auto;
+    border-radius: 10px;
+    padding: 3.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.fondo{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 100%;
+    background-color: snow;
+}
+
+.recta{
+    width: 25rem;
+    height: 5rem;
+    border-radius: 15px;
+    background-color: snow;
+    align-self: center;
+    margin-top: 43rem;
+}

@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.caja{
+    width: 37.5rem;
+    height: auto;
+    padding: 6.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.circulo{
+    background-color: rebeccapurple;
+    border-radius: 100%;
+    width: 15rem;
+    height: 15rem;
+    padding: 0px; 
+    align-self: center;
+}
+.recta{
+    height: 4rem;
+    width: 30rem;
+    border-radius:20px;
+    text-align: center;
+    background-color: rebeccapurple;
+    border-radius:20px;
+    align-self: center;
+    margin-top: 3rem;
+    
+}
+.recta_2{
+    height: 2rem;
+    width: 15rem ;
+    border-radius:20px;
+    text-align: center;
+    background-color: black;
+    align-self: center;
+    margin-top: 3rem;
+}
+.recta_3{
+    height: 2rem;
+    width: 15rem;
+    border-radius:20px;
+    text-align: center;
+    background-color: black;
+    align-self: center;
+    margin-top: 1.5rem;
+}
+.recta_4{
+    height: 15rem;
+    width: 30rem;
+    border-radius:20px;
+    text-align: center;
+    background-color: orange;
+    align-self: center;
+     margin-top: 3rem;
+}
+
+.recta_5{
+     height: 3rem;
+    width: 30rem;
+    border-radius:20px;
+    text-align: center;
+    background-color: black;
+    align-self: center;
+    margin-top: 3rem;
+}
